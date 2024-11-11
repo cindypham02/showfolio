@@ -20,3 +20,11 @@ To clone the repository, run the following command:
 ```bash
 git clone https://github.com/cindypham02/showfolio.git
 cd showfolio
+
+2. Install Dependencies
+Make sure you have Node.js and npm installed. You can check if they are installed by running:
+
+bash
+Copy code
+node -v
+npm -v
